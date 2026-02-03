@@ -18,7 +18,7 @@ Online Retail Dataset (Kaggle) – UK transactions only.
 - Sales trends by hour and day
 - Repeat customer analysis
 - Average Order Value (AOV)
-- Products bought together
+
 
 ## Key Insights
 - A small number of products drive most revenue
@@ -29,7 +29,7 @@ Online Retail Dataset (Kaggle) – UK transactions only.
 - Implement a loyalty program
 - Schedule promotions before peak hours
 - Create product bundles and cross-sell offers
-- Optimize inventory for top products
+
 
 📄 Full case study available in the PDF file above.
 
